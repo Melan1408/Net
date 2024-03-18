@@ -1,0 +1,15 @@
+F:\NET\HomeWork1\bin\Debug\net6.0\HomeWork1.exe
+F:\NET\HomeWork1\bin\Debug\net6.0\HomeWork1.deps.json
+F:\NET\HomeWork1\bin\Debug\net6.0\HomeWork1.runtimeconfig.json
+F:\NET\HomeWork1\bin\Debug\net6.0\HomeWork1.dll
+F:\NET\HomeWork1\bin\Debug\net6.0\HomeWork1.pdb
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.AssemblyReference.cache
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfoInputs.cache
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.AssemblyInfo.cs
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.dll
+F:\NET\HomeWork1\obj\Debug\net6.0\refint\HomeWork1.dll
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.pdb
+F:\NET\HomeWork1\obj\Debug\net6.0\HomeWork1.genruntimeconfig.cache
+F:\NET\HomeWork1\obj\Debug\net6.0\ref\HomeWork1.dll

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Nicko</Name>
+    <Surname>Kovah</Surname>
+    <Age>18</Age>
+    <Phone>380992129912</Phone>
+    <Average>55.5</Average>
+    <NumberOfGroups>1</NumberOfGroups>
+  </Student>
+  <Student>
+    <Name>Den</Name>
+    <Surname>Bynno</Surname>
+    <Age>19</Age>
+    <Phone>380992129925</Phone>
+    <Average>66.5</Average>
+    <NumberOfGroups>3</NumberOfGroups>
+  </Student>
+  <Student>
+    <Name>Masha</Name>
+    <Surname>Klipen</Surname>
+    <Age>22</Age>
+    <Phone>380992129986</Phone>
+    <Average>99</Average>
+    <NumberOfGroups>4</NumberOfGroups>
+  </Student>
+</ArrayOfStudent>
