@@ -12,6 +12,6 @@ namespace Store.Contract.Responses
 
         public string PhoneNumber { get; set; }
 
-        public OrderResponse Order { get; set; }
+        public virtual OrderResponse Order { get; set; }
     }
 }

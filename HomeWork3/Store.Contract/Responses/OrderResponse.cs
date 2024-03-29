@@ -8,6 +8,6 @@ namespace Store.Contract.Responses
 
         public string Name { get; set; }
 
-        public ProductResponse Product { get; set; }
+        public virtual ProductResponse Product { get; set; }
     }
 }
