@@ -1,0 +1,15 @@
+F:\NET\HomeWork3\Store.Contract\bin\Debug\net6.0\Store.Contract.deps.json
+F:\NET\HomeWork3\Store.Contract\bin\Debug\net6.0\Store.Contract.dll
+F:\NET\HomeWork3\Store.Contract\bin\Debug\net6.0\Store.Contract.pdb
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.csproj.AssemblyReference.cache
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.AssemblyInfoInputs.cache
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.AssemblyInfo.cs
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.dll
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\refint\Store.Contract.dll
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.pdb
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\ref\Store.Contract.dll
+F:\NET\HomeWork3\Store.Contract\bin\Debug\net6.0\Store.Data.dll
+F:\NET\HomeWork3\Store.Contract\bin\Debug\net6.0\Store.Data.pdb
+F:\NET\HomeWork3\Store.Contract\obj\Debug\net6.0\Store.Contract.csproj.CopyComplete
