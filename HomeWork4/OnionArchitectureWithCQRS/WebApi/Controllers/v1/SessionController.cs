@@ -16,8 +16,7 @@ namespace WebApi.Controllers.v1
         [HttpPost]
         public async Task<IActionResult> CreateSessionAsync(CreateSessionCommand command)
         {
-            await Mediator.Send(command);
-            return Ok();
+            return Ok(await Mediator.Send(command));
         }
 
 
@@ -30,10 +29,8 @@ namespace WebApi.Controllers.v1
                 {
                     return BadRequest();
                 }
-
-                await Mediator.Send(command);
-
-                return Ok();
+            
+                return Ok(await Mediator.Send(command));
             }
             catch (Exception ex)
             {

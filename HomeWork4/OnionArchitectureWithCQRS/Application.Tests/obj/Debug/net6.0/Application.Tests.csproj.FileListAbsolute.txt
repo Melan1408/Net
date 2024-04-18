@@ -1,0 +1,5 @@
+F:\NET\HomeWork4\OnionArchitectureWithCQRS\Application.Tests\obj\Debug\net6.0\Application.Tests.csproj.AssemblyReference.cache
+F:\NET\HomeWork4\OnionArchitectureWithCQRS\Application.Tests\obj\Debug\net6.0\Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork4\OnionArchitectureWithCQRS\Application.Tests\obj\Debug\net6.0\Application.Tests.AssemblyInfoInputs.cache
+F:\NET\HomeWork4\OnionArchitectureWithCQRS\Application.Tests\obj\Debug\net6.0\Application.Tests.AssemblyInfo.cs
+F:\NET\HomeWork4\OnionArchitectureWithCQRS\Application.Tests\obj\Debug\net6.0\Application.Tests.csproj.CoreCompileInputs.cache

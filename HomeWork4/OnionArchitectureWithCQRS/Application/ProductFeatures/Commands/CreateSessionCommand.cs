@@ -4,7 +4,7 @@ using MediatR;
 
 namespace Application.ProductFeatures.Commands
 {
-    public class CreateSessionCommand : IRequest
+    public class CreateSessionCommand : IRequest<Session>
     {
         public int SessionId { get; set; }
 
@@ -14,30 +14,32 @@ namespace Application.ProductFeatures.Commands
 
         public DateTime StartDateTime { get; set; }
 
+    }
+    public class CreateSessionCommandHandler : IRequestHandler<CreateSessionCommand, Session>
+    {
+        private readonly IApplicationDbContext _context;
 
-        public class UpsertSessionCommandHandler : IRequestHandler<CreateSessionCommand>
+        public CreateSessionCommandHandler(IApplicationDbContext context)
         {
-            private readonly IApplicationDbContext _context;
+            _context = context;
+        }
 
-            public UpsertSessionCommandHandler(IApplicationDbContext context)
+        public async Task<Session> Handle(CreateSessionCommand command, CancellationToken cancellationToken)
+        {
+            var session = new Session
             {
-                _context = context;
-            }
+                SessionId = command.SessionId,
+                MovieId = command.MovieId,
+                RoomName = command.RoomName,
+                StartDateTime = command.StartDateTime
+            };
 
-            public async Task Handle(CreateSessionCommand command, CancellationToken cancellationToken)
-            {
-                var session = new Session
-                {
-                    SessionId = command.SessionId,
-                    MovieId = command.MovieId,
-                    RoomName = command.RoomName,
-                    StartDateTime = command.StartDateTime
-                };
+            _context.Sessions.Add(session);
+            await _context.SaveChangesAsync(cancellationToken);
 
-                _context.Sessions.Add(session);
-                await _context.SaveChangesAsync(cancellationToken);
+            return session;
 
-            }
         }
     }
+
 }

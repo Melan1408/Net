@@ -4,7 +4,7 @@ using MediatR;
 
 namespace Application.ProductFeatures.Commands
 {
-    public class CreateMovieCommand : IRequest
+    public class CreateMovieCommand : IRequest<Movie>
     {
         public int MovieId { get; set; }
 
@@ -14,29 +14,33 @@ namespace Application.ProductFeatures.Commands
 
         public DateTime ReleaseDate { get; set; }
 
-        public class UpsertMovieCommandHandler : IRequestHandler<CreateMovieCommand>
-        {
-            private readonly IApplicationDbContext _context;
-
-            public UpsertMovieCommandHandler(IApplicationDbContext context)
-            {
-                _context = context;
-            }
-
-            public async Task Handle(CreateMovieCommand command, CancellationToken cancellationToken)
-            {
-                var movie = new Movie
-                {
-                    MovieId = command.MovieId,
-                    Title = command.Title,
-                    Description = command.Description,
-                    ReleaseDate = command.ReleaseDate
-                };
-
-                _context.Movies.Add(movie);
-                await _context.SaveChangesAsync(cancellationToken);
-            }
-
-        }
     }
+
+    public class CreateMovieCommandHandler : IRequestHandler<CreateMovieCommand, Movie>
+    {
+        private readonly IApplicationDbContext _context;
+
+        public CreateMovieCommandHandler(IApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<Movie> Handle(CreateMovieCommand command, CancellationToken cancellationToken)
+        {
+            var movie = new Movie
+            {
+                MovieId = command.MovieId,
+                Title = command.Title,
+                Description = command.Description,
+                ReleaseDate = command.ReleaseDate
+            };
+
+            _context.Movies.Add(movie);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            return movie;
+        }
+
+    }
+
 }

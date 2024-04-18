@@ -7,25 +7,26 @@ namespace Application.ProductFeatures.Commands
     public class DeleteMovieCommand : IRequest
     {
         public int MovieId { get; set; }
+    }
 
-        public class DeleteMovieCommandHandler : IRequestHandler<DeleteMovieCommand>
+    public class DeleteMovieCommandHandler : IRequestHandler<DeleteMovieCommand>
+    {
+        private readonly IApplicationDbContext _context;
+
+        public DeleteMovieCommandHandler(IApplicationDbContext context)
         {
-            private readonly IApplicationDbContext _context;
+            _context = context;
+        }
 
-            public DeleteMovieCommandHandler(IApplicationDbContext context)
-            {
-                _context = context;
-            }
+        public async Task Handle(DeleteMovieCommand command, CancellationToken cancellationToken)
+        {
 
-            public async Task Handle(DeleteMovieCommand command, CancellationToken cancellationToken)
-            {
+            var movie = await _context.Movies.Where(a => a.MovieId == command.MovieId).FirstOrDefaultAsync(cancellationToken)
+                ?? throw new Exception("Movie not found!");
 
-                var movie = await _context.Movies.Where(a => a.MovieId == command.MovieId).FirstOrDefaultAsync(cancellationToken) 
-                    ?? throw new Exception("Movie not found!");
-
-                _context.Movies.Remove(movie);
-                await _context.SaveChangesAsync(cancellationToken);
-            }        
+            _context.Movies.Remove(movie);
+            await _context.SaveChangesAsync(cancellationToken);
         }
     }
+
 }

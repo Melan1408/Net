@@ -7,21 +7,23 @@ namespace Application.ProductFeatures.Queries
 {
     public class GetMoviesQuery : IRequest<IEnumerable<Movie>>
     {
-        public class GetMoviesQueryHandler : IRequestHandler<GetMoviesQuery, IEnumerable<Movie>>
+
+    }
+    public class GetMoviesQueryHandler : IRequestHandler<GetMoviesQuery, IEnumerable<Movie>>
+    {
+        private readonly IApplicationDbContext _context;
+
+        public GetMoviesQueryHandler(IApplicationDbContext context)
         {
-            private readonly IApplicationDbContext _context;
+            _context = context;
+        }
 
-            public GetMoviesQueryHandler(IApplicationDbContext context)
-            {
-                _context = context;
-            }
+        public async Task<IEnumerable<Movie>> Handle(GetMoviesQuery query, CancellationToken cancellationToken)
+        {
+            var movieList = await _context.Movies.ToListAsync(cancellationToken);
 
-            public async Task<IEnumerable<Movie>> Handle(GetMoviesQuery query, CancellationToken cancellationToken)
-            {
-                var movieList = await _context.Movies.ToListAsync(cancellationToken);
-
-                return movieList?.AsReadOnly();
-            }
+            return movieList?.AsReadOnly();
         }
     }
+
 }
