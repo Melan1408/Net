@@ -1,0 +1,10 @@
+F:\NET\HomeWork7\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe.config
+F:\NET\HomeWork7\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe
+F:\NET\HomeWork7\Win7Calc\Win7Calc\bin\Debug\Win7Calc.pdb
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csproj.AssemblyReference.cache
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Calculator.Calc.resources
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.Properties.Resources.resources
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csproj.GenerateResource.cache
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.exe
+F:\NET\HomeWork7\Win7Calc\Win7Calc\obj\Debug\Win7Calc.pdb
