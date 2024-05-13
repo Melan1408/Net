@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {}
+    "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {}
   },
   "projects": {
-    "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {
+    "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj",
+        "projectPath": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
         "outputPath": "F:\\NET\\HomeWork3\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",

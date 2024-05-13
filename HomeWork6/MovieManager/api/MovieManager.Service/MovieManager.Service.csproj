@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieManager.Contract\MovieManager.Contract.csproj" />
+    <ProjectReference Include="..\MovieManager.Data\MovieManager.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\requests\\upsertactorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\requests\\upsertactorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\responses\\actorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\responses\\actorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\directors\\commands\\upsertdirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\directors\\commands\\upsertdirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\genres\\commands\\upsertgenrecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\genres\\commands\\upsertgenrecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\genres\\commands\\deletegenrecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\genres\\commands\\deletegenrecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\directors\\commands\\deletedirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\directors\\commands\\deletedirectorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\directors\\queries\\getdirectorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\directors\\queries\\getdirectorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\actors\\queries\\getactorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\actors\\queries\\getactorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\actors\\commands\\deleteactorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\actors\\commands\\deleteactorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\actors\\commands\\upsertactorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\actors\\commands\\upsertactorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\moviemanagerreferencedata.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\moviemanagerreferencedata.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\modules\\coreloggingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\modules\\coreloggingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\moviemanagerreferencedata.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\moviemanagerreferencedata.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\genres\\queries\\getgenressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\genres\\queries\\getgenressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1674C2-E960-40B8-B077-4CE83481E3AC}|MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj|solutionrelative:moviemanagerreferencedata.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.data\\context\\moviemanagerreferencedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|solutionrelative:moviemanagerreferencedata.data\\context\\moviemanagerreferencedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\requests\\upsertgenrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\requests\\upsertgenrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\requests\\upsertdirectorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\requests\\upsertdirectorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\responses\\genreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\responses\\genreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.contract\\responses\\directorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19232BAB-3E72-405E-A038-4DF107F5A0E1}|MovieManagerReferenceData.Contract\\MovieManagerReferenceData.Contract.csproj|solutionrelative:moviemanagerreferencedata.contract\\responses\\directorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.data\\moviemanagerreferencedata.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|solutionrelative:moviemanagerreferencedata.data\\moviemanagerreferencedata.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.data\\entites\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|solutionrelative:moviemanagerreferencedata.data\\entites\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.data\\entites\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|solutionrelative:moviemanagerreferencedata.data\\entites\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata.data\\entites\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1E8173-AC4E-4A30-9C37-D58DB2479972}|MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj|solutionrelative:moviemanagerreferencedata.data\\entites\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|f:\\net\\homework6\\moviemanagerreferencedata\\moviemanagerreferencedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41D10E98-0E0F-4205-A034-B123C78C4CD0}|MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj|solutionrelative:moviemanagerreferencedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Controllers\\DirectorController.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Controllers\\DirectorController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:36:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Controllers\\ActorController.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:29:50.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpsertGenreCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Commands\\UpsertGenreCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Genres\\Commands\\UpsertGenreCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Commands\\UpsertGenreCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Genres\\Commands\\UpsertGenreCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:12:21.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpsertDirectorCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Commands\\UpsertDirectorCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Directors\\Commands\\UpsertDirectorCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Commands\\UpsertDirectorCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Directors\\Commands\\UpsertDirectorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:12:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpsertActorCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Commands\\UpsertActorCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Actors\\Commands\\UpsertActorCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Commands\\UpsertActorCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Actors\\Commands\\UpsertActorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:48:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteActorCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Commands\\DeleteActorCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Actors\\Commands\\DeleteActorCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Commands\\DeleteActorCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Actors\\Commands\\DeleteActorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:48:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetActorsQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Queries\\GetActorsQuery.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Actors\\Queries\\GetActorsQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Actors\\Queries\\GetActorsQuery.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Actors\\Queries\\GetActorsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:08:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteDirectorCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Commands\\DeleteDirectorCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Directors\\Commands\\DeleteDirectorCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Commands\\DeleteDirectorCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Directors\\Commands\\DeleteDirectorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:12:24.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDirectorsQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Queries\\GetDirectorsQuery.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Directors\\Queries\\GetDirectorsQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Directors\\Queries\\GetDirectorsQuery.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Directors\\Queries\\GetDirectorsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:12:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\ActorResponse.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Responses\\ActorResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\ActorResponse.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Responses\\ActorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:53:09.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpsertActorRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertActorRequest.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Requests\\UpsertActorRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertActorRequest.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Requests\\UpsertActorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:52:58.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Controllers\\GenreController.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:41:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieManagerReferenceData\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T14:00:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteGenreCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Commands\\DeleteGenreCommand.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Genres\\Commands\\DeleteGenreCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Commands\\DeleteGenreCommand.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Genres\\Commands\\DeleteGenreCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:12:18.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Modules\\CoreModule.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Modules\\CoreModule.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Modules\\CoreModule.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Modules\\CoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:38:12.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoreLoggingModule.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Modules\\CoreLoggingModule.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Modules\\CoreLoggingModule.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Modules\\CoreLoggingModule.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Modules\\CoreLoggingModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:37:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieManagerReferenceData.Service.csproj",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\MovieManagerReferenceData.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:13:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\IRequestHandler.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\IRequestHandler.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:42:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetGenressQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Queries\\GetGenressQuery.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Service\\Genres\\Queries\\GetGenressQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Service\\Genres\\Queries\\GetGenressQuery.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Service\\Genres\\Queries\\GetGenressQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:12:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieManagerReferenceData.Api.csproj",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj",
+              "RelativeToolTip": "MovieManagerReferenceData\\MovieManagerReferenceData.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:13:18.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpsertGenreRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertGenreRequest.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Requests\\UpsertGenreRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertGenreRequest.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Requests\\UpsertGenreRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:00:04.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpsertDirectorRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertDirectorRequest.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Requests\\UpsertDirectorRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Requests\\UpsertDirectorRequest.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Requests\\UpsertDirectorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:59:08.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenreResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\GenreResponse.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Responses\\GenreResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\GenreResponse.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Responses\\GenreResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:55:14.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DirectorResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\DirectorResponse.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Contract\\Responses\\DirectorResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Contract\\Responses\\DirectorResponse.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Contract\\Responses\\DirectorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:55:28.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieManagerReferenceDataContext.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Context\\MovieManagerReferenceDataContext.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Data\\Context\\MovieManagerReferenceDataContext.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Context\\MovieManagerReferenceDataContext.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Data\\Context\\MovieManagerReferenceDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:27.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\appsettings.Development.json",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\appsettings.Development.json",
+              "RelativeToolTip": "MovieManagerReferenceData\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T10:41:28.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovieManagerReferenceData.Data.csproj",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj",
+              "RelativeToolTip": "MovieManagerReferenceData.Data\\MovieManagerReferenceData.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:13:18.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Actor.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Data\\Entites\\Actor.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Actor.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Data\\Entites\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:26:46.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Data\\Entites\\Genre.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Genre.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Data\\Entites\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:26:21.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Director.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Director.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData.Data\\Entites\\Director.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData.Data\\Entites\\Director.cs",
+              "RelativeToolTip": "MovieManagerReferenceData.Data\\Entites\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:25:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\appsettings.json",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\appsettings.json",
+              "RelativeToolTip": "MovieManagerReferenceData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T10:12:10.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Program.cs",
+              "RelativeDocumentMoniker": "MovieManagerReferenceData\\Program.cs",
+              "ToolTip": "F:\\NET\\HomeWork6\\MovieManagerReferenceData\\MovieManagerReferenceData\\Program.cs",
+              "RelativeToolTip": "MovieManagerReferenceData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:11:53.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

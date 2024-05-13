@@ -1935,11 +1935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj",
+      "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj",
       "projectName": "Store.Contract",
-      "projectPath": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj",
+      "projectPath": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj",
       "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-      "outputPath": "F:\\NET\\Homework3\\Store.Contract\\obj\\",
+      "outputPath": "F:\\NET\\HomeWork3\\Store.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1961,8 +1961,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {
-              "projectPath": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj"
+            "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {
+              "projectPath": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj"
             }
           }
         }

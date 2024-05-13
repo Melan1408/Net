@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NET\\Homework3\\Store.Api\\Store.Api.csproj": {}
+    "F:\\NET\\HomeWork3\\Store.Api\\Store.Api.csproj": {}
   },
   "projects": {
-    "F:\\NET\\Homework3\\Store.Api\\Store.Api.csproj": {
+    "F:\\NET\\HomeWork3\\Store.Api\\Store.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NET\\Homework3\\Store.Api\\Store.Api.csproj",
+        "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Api\\Store.Api.csproj",
         "projectName": "Store.Api",
-        "projectPath": "F:\\NET\\Homework3\\Store.Api\\Store.Api.csproj",
+        "projectPath": "F:\\NET\\HomeWork3\\Store.Api\\Store.Api.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-        "outputPath": "F:\\NET\\Homework3\\Store.Api\\obj\\",
+        "outputPath": "F:\\NET\\HomeWork3\\Store.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {
-                "projectPath": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj"
+              "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {
+                "projectPath": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj"
               },
-              "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj": {
-                "projectPath": "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj"
+              "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj": {
+                "projectPath": "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj": {
+    "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj",
+        "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj",
         "projectName": "Store.Contract",
-        "projectPath": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj",
+        "projectPath": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-        "outputPath": "F:\\NET\\Homework3\\Store.Contract\\obj\\",
+        "outputPath": "F:\\NET\\HomeWork3\\Store.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -137,8 +137,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {
-                "projectPath": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj"
+              "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {
+                "projectPath": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj"
               }
             }
           }
@@ -172,12 +172,12 @@
         }
       }
     },
-    "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj": {
+    "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "F:\\NET\\Homework3\\Store.Data\\Store.Data.csproj",
+        "projectPath": "F:\\NET\\HomeWork3\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
         "outputPath": "F:\\NET\\HomeWork3\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -254,14 +254,14 @@
         }
       }
     },
-    "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj": {
+    "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj",
+        "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj",
         "projectName": "Store.Service",
-        "projectPath": "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj",
+        "projectPath": "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-        "outputPath": "F:\\NET\\Homework3\\Store.Service\\obj\\",
+        "outputPath": "F:\\NET\\HomeWork3\\Store.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -283,8 +283,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj": {
-                "projectPath": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj"
+              "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj": {
+                "projectPath": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj"
               }
             }
           }

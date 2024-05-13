@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mSXd0rdJsba2xtYX4Db4411zEjQhRGa03TqD0WzASgZTYxvpXtZc/LjnWjsjeew7r2F/a08JkX5HNG9KClVrQ==",
+  "dgSpecHash": "VAEa96vKAZK0FEOqvxPkNMuuIvtaHFOJX2ONnvISjJLYbBroNkDo+LFi1Pz/KJHKyAAHNGHAWogkOMowFfuyGw==",
   "success": true,
-  "projectFilePath": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj",
+  "projectFilePath": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

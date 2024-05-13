@@ -1953,9 +1953,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj",
+      "projectUniqueName": "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj",
       "projectName": "Store.Service",
-      "projectPath": "F:\\NET\\Homework3\\Store.Service\\Store.Service.csproj",
+      "projectPath": "F:\\NET\\HomeWork3\\Store.Service\\Store.Service.csproj",
       "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
       "outputPath": "F:\\NET\\Homework3\\Store.Service\\obj\\",
       "projectStyle": "PackageReference",
@@ -1979,8 +1979,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj": {
-              "projectPath": "F:\\NET\\Homework3\\Store.Contract\\Store.Contract.csproj"
+            "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj": {
+              "projectPath": "F:\\NET\\HomeWork3\\Store.Contract\\Store.Contract.csproj"
             }
           }
         }

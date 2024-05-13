@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNjLSJA68ipJ4KsL/Pa23qP7aIqbXKwBlpinxm5Cz9ygJgwbKaZCxOcLwGGeXtnqfAdP/xOOXUp5+iyH8IJCNQ==",
+  "dgSpecHash": "r/L3hiMfgwpnFSQDO2eAASTjFSDnPLpseY+xxIwYkkzJsQwxxS98W7Insahq3rWH4dJLHeeUtcj5fA8ddSUQ0Q==",
   "success": true,
-  "projectFilePath": "F:\\NET\\Homework3\\Store.Api\\Store.Api.csproj",
+  "projectFilePath": "F:\\NET\\HomeWork3\\Store.Api\\Store.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andy\\.nuget\\packages\\correlationid\\3.0.1\\correlationid.3.0.1.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

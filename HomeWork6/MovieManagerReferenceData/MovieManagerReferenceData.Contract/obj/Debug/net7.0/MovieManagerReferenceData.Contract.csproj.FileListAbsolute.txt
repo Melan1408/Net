@@ -1,0 +1,12 @@
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\bin\Debug\net7.0\MovieManagerReferenceData.Contract.deps.json
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\bin\Debug\net7.0\MovieManagerReferenceData.Contract.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\bin\Debug\net7.0\MovieManagerReferenceData.Contract.pdb
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.AssemblyInfoInputs.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.AssemblyInfo.cs
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\refint\MovieManagerReferenceData.Contract.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.pdb
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\ref\MovieManagerReferenceData.Contract.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Contract\obj\Debug\net7.0\MovieManagerReferenceData.Contract.sourcelink.json

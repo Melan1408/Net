@@ -1,0 +1,15 @@
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\bin\Debug\net7.0\MovieManagerReferenceData.Data.deps.json
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\bin\Debug\net7.0\MovieManagerReferenceData.Data.runtimeconfig.json
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\bin\Debug\net7.0\MovieManagerReferenceData.Data.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\bin\Debug\net7.0\MovieManagerReferenceData.Data.pdb
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.csproj.AssemblyReference.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.AssemblyInfoInputs.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.AssemblyInfo.cs
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\refint\MovieManagerReferenceData.Data.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.pdb
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.genruntimeconfig.cache
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\ref\MovieManagerReferenceData.Data.dll
+F:\NET\HomeWork6\MovieManagerReferenceData\MovieManagerReferenceData.Data\obj\Debug\net7.0\MovieManagerReferenceData.Data.sourcelink.json
