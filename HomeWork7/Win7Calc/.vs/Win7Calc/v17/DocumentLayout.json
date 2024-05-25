@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\NET\\HomeWork7\\Win7Calc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|f:\\net\\homework7\\win7calc\\win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|solutionrelative:win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|f:\\net\\homework7\\win7calc\\win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|solutionrelative:win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|f:\\net\\homework7\\win7calc\\win7calc\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|F:\\NET\\HomeWork7\\Win7Calc\\win7calc\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|solutionrelative:win7calc\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|f:\\net\\homework7\\win7calc\\win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|solutionrelative:win7calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|F:\\NET\\HomeWork7\\Win7Calc\\win7calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CE4F48-BEFF-4CC0-B5C2-A49073B78E10}|Win7Calc\\Win7Calc.csproj|solutionrelative:win7calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\Program.cs",
+              "RelativeDocumentMoniker": "Win7Calc\\Program.cs",
+              "ToolTip": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\Program.cs",
+              "RelativeToolTip": "Win7Calc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:13:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ICalculate.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\ICalculate.cs",
               "RelativeDocumentMoniker": "Win7Calc\\ICalculate.cs",
               "ToolTip": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\ICalculate.cs",
               "RelativeToolTip": "Win7Calc\\ICalculate.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:31:48.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T16:31:48.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\Form1.cs",
               "RelativeDocumentMoniker": "Win7Calc\\Form1.cs",
@@ -61,13 +76,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\Form1.cs",
               "RelativeDocumentMoniker": "Win7Calc\\Form1.cs",
               "ToolTip": "F:\\NET\\HomeWork7\\Win7Calc\\Win7Calc\\Form1.cs",
               "RelativeToolTip": "Win7Calc\\Form1.cs",
-              "ViewState": "AQIAAPUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T16:31:57.321Z",
               "EditorCaption": ""

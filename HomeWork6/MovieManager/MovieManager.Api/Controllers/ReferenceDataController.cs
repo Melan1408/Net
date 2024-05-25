@@ -58,5 +58,12 @@ namespace MovieManager.Api.Controllers
         {
             return Ok(await _refDataService.PostData("Genres", data));
         }
+
+        [Route("directorssss/{movieId}")]
+        [HttpDelete]
+        public IActionResult PosttestAsync(int movieId)
+        {
+            return Ok();
+        }
     }
 }
