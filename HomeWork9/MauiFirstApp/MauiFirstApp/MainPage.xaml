@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiFirstApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            Background="Gray">
+            <Label
+                Text="Click To Download Our Resume"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+            <Button
+                x:Name="ResumeBtn"
+                Text="Click me" 
+                SemanticProperties.Hint="Show Resume"
+                Clicked="ShowResume"
+                HorizontalOptions="Fill" />
+            <Label
+                x:Name="ResumeLabel"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level3"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

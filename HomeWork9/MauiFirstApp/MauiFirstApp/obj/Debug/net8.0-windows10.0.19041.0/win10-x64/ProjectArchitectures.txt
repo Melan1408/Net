@@ -1,0 +1,1 @@
+F:\NET\HomeWork9\MauiFirstApp\MauiFirstApp\MauiFirstApp.csproj;x64
