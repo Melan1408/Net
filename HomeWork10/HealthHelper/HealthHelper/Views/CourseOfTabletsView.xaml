@@ -1,0 +1,104 @@
+﻿<Window x:Class="HealthHelper.Views.CourseOfTabletsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthHelper.Views"
+        xmlns:tp="clr-namespace:RoyT.TimePicker;assembly=RoyT.TimePicker"
+        mc:Ignorable="d"
+        Title="CourseOfTabletsView" Height="800" Width="1400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Foreground="Black" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="0">Course of Tablets</TextBlock>
+        <TextBlock Foreground="Black" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="0">Tablets</TextBlock>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0"  Foreground="Black">Name</TextBlock>
+                <TextBlock Grid.Row="2"  Foreground="Black">Surname</TextBlock>
+                <TextBlock Grid.Row="4"  Foreground="Black">Age</TextBlock>
+                <TextBlock Grid.Row="1" Text="{Binding Name}"  Foreground="Black"></TextBlock>
+                <TextBlock Grid.Row="3" Text="{Binding Surname}"  Foreground="Black"></TextBlock>
+                <TextBlock Grid.Row="5" Text="{Binding Age}"  Foreground="Black"></TextBlock>
+                <Grid Grid.Row="6">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <tp:TimePicker Grid.Row="0" Height="250" Width="250" Time="{Binding Time, Mode=TwoWay}" />
+                    <TextBlock Grid.Row="1"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Foreground="Black"
+                        FontSize="32"
+                        Text="{Binding Time}" />
+                    <Button Grid.Row="2" Content="AM/PM" Command="{Binding AMPMButtonCommand}"/>
+                </Grid>
+            </Grid>
+            <ListBox x:Name="FamilyMemberTabletList" Grid.Column="1"       
+                ItemsSource="{Binding FamilyMemberTabletList}"
+                ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#FFFACD">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <local:CourseOfTabletCardView/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+        </Grid>
+        <ListBox x:Name="TabletList" Grid.Column="1" Grid.Row="1"    
+            ItemsSource="{Binding TabletList}"
+            ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+            ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#ccccb3">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <local:TabletCardView/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+        </ListBox>
+        <StackPanel Grid.Row="2" Grid.Column="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="AddTablet" Margin="10" Command="{Binding AddTabletCommand}" Style="{StaticResource greenButton}"
+                CommandParameter="{Binding ElementName=TabletList, Path=SelectedItem}" />
+            <Button Content="DeleteTablet" Margin="10" Command="{Binding DeleteTabletCommand}" Style="{StaticResource redButton}"
+                CommandParameter="{Binding ElementName=FamilyMemberTabletList, Path=SelectedItem}"  />
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Add" Margin="10" Padding="3" Command="{Binding AddCommand}" Style="{StaticResource greenButton}" />
+            <Button Content="Edit" Margin="10" Command="{Binding EditCommand}"
+                CommandParameter="{Binding ElementName=TabletList, Path=SelectedItem}"  Style="{StaticResource darkGreyButton}"/>
+            <Button Content="Delete" Margin="10" Command="{Binding DeleteCommand}"
+                CommandParameter="{Binding ElementName=TabletList, Path=SelectedItem}"  Style="{StaticResource redButton}"/>
+        </StackPanel>
+    </Grid>
+</Window>

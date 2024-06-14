@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NET\\HomeWork3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\customers\\commands\\upsertcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\customers\\commands\\upsertcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\modules\\coreloggingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\modules\\coreloggingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\responses\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\responses\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\responses\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\responses\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\responses\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\responses\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\customers\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\customers\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\customers\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\customers\\queries\\getcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\orders\\queries\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\orders\\queries\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\products\\queries\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\products\\queries\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\requests\\upsertcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\requests\\upsertcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\requests\\upsertorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\requests\\upsertorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|f:\\net\\homework3\\store.contract\\requests\\upsertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6AB4C-18B2-434B-9756-8FD94B835F23}|Store.Contract\\Store.Contract.csproj|solutionrelative:store.contract\\requests\\upsertproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\categories\\commands\\upsertcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\categories\\commands\\upsertcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|f:\\net\\homework3\\store.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E5E5E-36B2-457F-8920-6A3E39333937}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\customers\\commands\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\customers\\commands\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|f:\\net\\homework3\\store.service\\orders\\commands\\upsertordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6268B46-2873-4E71-89A2-5A333E58B437}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\orders\\commands\\upsertordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|f:\\net\\homework3\\store.data\\migrations\\20240328185551_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D92562-6273-467D-9CB8-400DA50562F5}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\migrations\\20240328185551_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Store.Api\\appsettings.Development.json",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Store.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T10:41:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "Store.Service\\IRequestHandler.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\IRequestHandler.cs",
+              "RelativeToolTip": "Store.Service\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:40:52.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Modules\\CoreModule.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Modules\\CoreModule.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Modules\\CoreModule.cs",
+              "RelativeToolTip": "Store.Api\\Modules\\CoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:37:07.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoreLoggingModule.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Modules\\CoreLoggingModule.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Modules\\CoreLoggingModule.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Modules\\CoreLoggingModule.cs",
+              "RelativeToolTip": "Store.Api\\Modules\\CoreLoggingModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:37:06.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "F:\\NET\\HomeWork3\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T10:33:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.Api\\appsettings.json",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\appsettings.json",
+              "RelativeToolTip": "Store.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T10:33:52.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Context\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Context\\StoreContext.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Context\\StoreContext.cs",
+              "RelativeToolTip": "Store.Data\\Context\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:30.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Responses\\CustomerResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\CustomerResponse.cs",
+              "RelativeToolTip": "Store.Contract\\Responses\\CustomerResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:07:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpsertOrderRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertOrderRequest.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Requests\\UpsertOrderRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertOrderRequest.cs",
+              "RelativeToolTip": "Store.Contract\\Requests\\UpsertOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Program.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Program.cs",
+              "RelativeToolTip": "Store.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:16:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpsertCustomerCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Commands\\UpsertCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Customers\\Commands\\UpsertCustomerCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Commands\\UpsertCustomerCommand.cs",
+              "RelativeToolTip": "Store.Service\\Customers\\Commands\\UpsertCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:52:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Store.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:27.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpsertCustomerRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertCustomerRequest.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Requests\\UpsertCustomerRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertCustomerRequest.cs",
+              "RelativeToolTip": "Store.Contract\\Requests\\UpsertCustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:18.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Products\\Queries\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Products\\Queries\\GetProductsQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Products\\Queries\\GetProductsQuery.cs",
+              "RelativeToolTip": "Store.Service\\Products\\Queries\\GetProductsQuery.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpsertProductRequest.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertProductRequest.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Requests\\UpsertProductRequest.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Requests\\UpsertProductRequest.cs",
+              "RelativeToolTip": "Store.Contract\\Requests\\UpsertProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Store.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:55:40.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetOrdersQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Orders\\Queries\\GetOrdersQuery.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Orders\\Queries\\GetOrdersQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Orders\\Queries\\GetOrdersQuery.cs",
+              "RelativeToolTip": "Store.Service\\Orders\\Queries\\GetOrdersQuery.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetCustomersQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Queries\\GetCustomersQuery.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Customers\\Queries\\GetCustomersQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Queries\\GetCustomersQuery.cs",
+              "RelativeToolTip": "Store.Service\\Customers\\Queries\\GetCustomersQuery.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:04:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Responses\\CategoryResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\CategoryResponse.cs",
+              "RelativeToolTip": "Store.Contract\\Responses\\CategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:06:52.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Responses\\ProductResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\ProductResponse.cs",
+              "RelativeToolTip": "Store.Contract\\Responses\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:06:54.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Customer.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entites\\Customer.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Customer.cs",
+              "RelativeToolTip": "Store.Data\\Entites\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entites\\Category.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Category.cs",
+              "RelativeToolTip": "Store.Data\\Entites\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Store.Contract\\Responses\\OrderResponse.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Contract\\Responses\\OrderResponse.cs",
+              "RelativeToolTip": "Store.Contract\\Responses\\OrderResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:07:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entites\\Order.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Order.cs",
+              "RelativeToolTip": "Store.Data\\Entites\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:37.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entites\\Product.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Entites\\Product.cs",
+              "RelativeToolTip": "Store.Data\\Entites\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpsertCategoryCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Categories\\Commands\\UpsertCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Categories\\Commands\\UpsertCategoryCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Categories\\Commands\\UpsertCategoryCommand.cs",
+              "RelativeToolTip": "Store.Service\\Categories\\Commands\\UpsertCategoryCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIA1wCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:58:23.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240328185551_CreateDB.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Data\\Migrations\\20240328185551_CreateDB.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Migrations\\20240328185551_CreateDB.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Data\\Migrations\\20240328185551_CreateDB.cs",
+              "RelativeToolTip": "Store.Data\\Migrations\\20240328185551_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:48:32.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Customers\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "Store.Service\\Customers\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:52:56.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "Store.Service\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:52:02.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Store.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:55.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Store.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Store.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpsertOrderCommand.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork3\\Store.Service\\Orders\\Commands\\UpsertOrderCommand.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Orders\\Commands\\UpsertOrderCommand.cs",
+              "ToolTip": "F:\\NET\\HomeWork3\\Store.Service\\Orders\\Commands\\UpsertOrderCommand.cs",
+              "RelativeToolTip": "Store.Service\\Orders\\Commands\\UpsertOrderCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:38:08.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
