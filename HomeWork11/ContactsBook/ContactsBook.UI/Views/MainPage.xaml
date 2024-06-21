@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContactsBook.UI.Views.MainPage"
+             xmlns:models="clr-namespace:ContactsBook.DAL.Models;assembly=ContactsBook.DAL">
+    <ScrollView>
+    <VerticalStackLayout Padding="15">
+        <Label 
+        Text="ContactBook"
+        FontSize="Medium"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start" />
+        <Frame>
+            <VerticalStackLayout Spacing="5">
+                <Label 
+                FontSize="Medium"
+                Text="Contact Name"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" />
+
+                <Entry FontSize="Medium" Text="{Binding ContactName}" Placeholder="Enter Name here" />
+
+                <Label 
+                FontSize="Medium"
+                Text="Contact Surname"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" />
+
+                <Entry FontSize="Medium" Text="{Binding ContactSurname}" Placeholder="Enter Surname here" />
+
+                <Label 
+                FontSize="Medium"
+                Text="Contact Phone"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" />
+
+                <Entry FontSize="Medium" Text="{Binding ContactPhone}" Placeholder="Enter Phone here" />
+
+                <Button Text="Add Note"
+                Command="{Binding AddContactCommand}"/>
+            </VerticalStackLayout>
+
+        </Frame>
+            <ListView ItemsSource="{Binding ContactList}" SelectedItem="{Binding SelectedContact}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid Padding="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="30" />
+                                <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Column="0"
+                                Text="Name:"
+                                FontAttributes="Bold" />
+                                <Label Grid.Column="2"
+                                Text="{Binding Name}"
+                                FontAttributes="Bold" />
+                                <Label Grid.Column="0"
+                                Grid.Row="1"
+                                Text="Surname:"
+                                FontAttributes="Bold" />
+                                <Label Grid.Row="1"
+                                Grid.Column="2"
+                                Text="{Binding Surname}"
+                                FontAttributes="Bold"
+                                VerticalOptions="End" />
+                                <Label Grid.Column="0"
+                                Grid.Row="2"
+                                Text="Phone:"
+                                FontAttributes="Italic" />
+                                <Label Grid.Row="2"
+                                Grid.Column="2"
+                                Text="{Binding Phone}"
+                                FontAttributes="Italic"
+                                VerticalOptions="End" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <HorizontalStackLayout Spacing="30" Margin="10">
+                <Button Text="Remove Note" Command="{Binding DeleteContactCommand}"/>
+                <Button Text="Edit Note"  Command="{Binding EditContactCommand}"/>
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NET\\HomeWork11\\ContactsBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.dal\\models\\contactitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|solutionrelative:contactsbook.dal\\models\\contactitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|solutionrelative:contactsbook.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.ui\\contactsbook.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05AA3C2D-22A8-4DD6-8AF6-39D1127DF4AA}|ContactsBook.UI\\ContactsBook.UI.csproj|solutionrelative:contactsbook.ui\\contactsbook.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|f:\\net\\homework11\\contactsbook\\contactsbook.dal\\contactsbook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4730C181-B274-465C-BF8C-A41AB6AC3D5D}|ContactsBook.DAL\\ContactsBook.DAL.csproj|solutionrelative:contactsbook.dal\\contactsbook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "ContactsBook.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAwwEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:26:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyExtensions.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\MyExtensions.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\MyExtensions.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\MyExtensions.cs",
+              "RelativeToolTip": "ContactsBook.UI\\MyExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:51:07.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\MauiProgram.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\MauiProgram.cs",
+              "RelativeToolTip": "ContactsBook.UI\\MauiProgram.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:49:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\appsettings.json",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\appsettings.json",
+              "RelativeToolTip": "ContactsBook.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T11:40:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContactsBook.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ContactsBook.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:37:35.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactItem.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\Models\\ContactItem.cs",
+              "RelativeDocumentMoniker": "ContactsBook.DAL\\Models\\ContactItem.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\Models\\ContactItem.cs",
+              "RelativeToolTip": "ContactsBook.DAL\\Models\\ContactItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:36:43.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactsBook.UI.csproj",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\ContactsBook.UI.csproj",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\ContactsBook.UI.csproj",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\ContactsBook.UI.csproj",
+              "RelativeToolTip": "ContactsBook.UI\\ContactsBook.UI.csproj",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T11:24:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\Views\\MainPage.xaml.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "ContactsBook.UI\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:15:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "ContactsBook.UI\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAIAwwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:15:41.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\Views\\MainPage.xaml",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\Views\\MainPage.xaml",
+              "RelativeToolTip": "ContactsBook.UI\\Views\\MainPage.xaml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwCsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T11:13:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactsBook.DAL.csproj",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\ContactsBook.DAL.csproj",
+              "RelativeDocumentMoniker": "ContactsBook.DAL\\ContactsBook.DAL.csproj",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.DAL\\ContactsBook.DAL.csproj",
+              "RelativeToolTip": "ContactsBook.DAL\\ContactsBook.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T11:52:01.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\AppShell.xaml",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\AppShell.xaml",
+              "RelativeToolTip": "ContactsBook.UI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:08:55.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\AppShell.xaml.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\AppShell.xaml.cs",
+              "RelativeToolTip": "ContactsBook.UI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:11:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsBook.UI\\App.xaml.cs",
+              "ToolTip": "F:\\NET\\HomeWork11\\ContactsBook\\ContactsBook.UI\\App.xaml.cs",
+              "RelativeToolTip": "ContactsBook.UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:12:17.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

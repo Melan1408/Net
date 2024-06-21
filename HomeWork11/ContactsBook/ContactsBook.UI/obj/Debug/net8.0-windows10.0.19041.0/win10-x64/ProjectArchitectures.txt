@@ -1,0 +1,2 @@
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\ContactsBook.DAL.csproj;neutral
+F:\NET\HomeWork11\ContactsBook\ContactsBook.UI\ContactsBook.UI.csproj;x64

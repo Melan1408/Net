@@ -1,0 +1,13 @@
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\bin\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.deps.json
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\bin\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.dll
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\bin\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.pdb
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.csproj.AssemblyReference.cache
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.AssemblyInfoInputs.cache
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.AssemblyInfo.cs
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.csproj.CoreCompileInputs.cache
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.sourcelink.json
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.dll
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\refint\ContactsBook.DAL.dll
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ContactsBook.DAL.pdb
+F:\NET\HomeWork11\ContactsBook\ContactsBook.DAL\obj\Debug\net8.0-windows10.0.19041.0\ref\ContactsBook.DAL.dll

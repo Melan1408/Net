@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\NET\\HomeWork10\\HealthHelper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\courseoftabletsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\views\\courseoftabletsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\views\\courseoftabletcardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\styles\\textstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\styles\\textstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\viewmodels\\courseoftabletsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\viewmodels\\courseoftabletsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\viewmodels\\courseoftabletcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\viewmodels\\courseoftabletcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\tabletcardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\familymembercardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\views\\familymembercardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\viewmodels\\courseoftabletcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\viewmodels\\courseoftabletcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|solutionrelative:healthhelper\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73D60E86-9C2D-4484-8031-0CCB203F9C2E}|HealthHelper\\HealthHelper.csproj|f:\\net\\homework10\\healthhelper\\healthhelper\\views\\tabletview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -66,59 +82,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TabletView.xaml",
-              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletView.xaml",
-              "RelativeDocumentMoniker": "HealthHelper\\Views\\TabletView.xaml",
-              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletView.xaml",
-              "RelativeToolTip": "HealthHelper\\Views\\TabletView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:44:57.164Z",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HealthHelper\\App.xaml.cs",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\App.xaml.cs*",
+              "RelativeToolTip": "HealthHelper\\App.xaml.cs*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:52:35.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TabletCardView.xaml",
-              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletCardView.xaml",
-              "RelativeDocumentMoniker": "HealthHelper\\Views\\TabletCardView.xaml",
-              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletCardView.xaml",
-              "RelativeToolTip": "HealthHelper\\Views\\TabletCardView.xaml",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\App.xaml",
+              "RelativeDocumentMoniker": "HealthHelper\\App.xaml",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\App.xaml",
+              "RelativeToolTip": "HealthHelper\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:44:54.583Z",
+              "WhenOpened": "2024-06-18T09:52:16.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "TextStyle.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Styles\\TextStyle.xaml",
+              "RelativeDocumentMoniker": "HealthHelper\\Styles\\TextStyle.xaml",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Styles\\TextStyle.xaml",
+              "RelativeToolTip": "HealthHelper\\Styles\\TextStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T09:52:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "HealthHelper\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "HealthHelper\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T09:50:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FamilyMemberCardView.xaml",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\FamilyMemberCardView.xaml",
               "RelativeDocumentMoniker": "HealthHelper\\Views\\FamilyMemberCardView.xaml",
               "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\FamilyMemberCardView.xaml",
               "RelativeToolTip": "HealthHelper\\Views\\FamilyMemberCardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:30:53.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:30:53.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "FamilyMemberView.xaml",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\FamilyMemberView.xaml",
               "RelativeDocumentMoniker": "HealthHelper\\Views\\FamilyMemberView.xaml",
               "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\FamilyMemberView.xaml",
               "RelativeToolTip": "HealthHelper\\Views\\FamilyMemberView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:30:51.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:30:51.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MainView.xaml",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\MainView.xaml",
               "RelativeDocumentMoniker": "HealthHelper\\Views\\MainView.xaml",
@@ -130,31 +169,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CourseOfTabletsView.xaml",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\CourseOfTabletsView.xaml",
               "RelativeDocumentMoniker": "HealthHelper\\Views\\CourseOfTabletsView.xaml",
               "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\CourseOfTabletsView.xaml",
               "RelativeToolTip": "HealthHelper\\Views\\CourseOfTabletsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:25:46.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:25:46.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CourseOfTabletCardView.xaml",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\CourseOfTabletCardView.xaml",
               "RelativeDocumentMoniker": "HealthHelper\\Views\\CourseOfTabletCardView.xaml",
               "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\CourseOfTabletCardView.xaml",
               "RelativeToolTip": "HealthHelper\\Views\\CourseOfTabletCardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T16:25:44.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:25:44.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CourseOfTabletCardViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\CourseOfTabletCardViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\CourseOfTabletCardViewModel.cs",
@@ -162,25 +199,45 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\CourseOfTabletCardViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:24:30.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:24:30.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CourseOfTabletsViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\CourseOfTabletsViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\CourseOfTabletsViewModel.cs",
               "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\CourseOfTabletsViewModel.cs",
               "RelativeToolTip": "HealthHelper\\ViewModels\\CourseOfTabletsViewModel.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAqwEoAAAANAAAA",
+              "ViewState": "AQIAALgAAAAAAAAAAAAlwMgAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:21:05.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:21:05.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "TabletCardView.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletCardView.xaml",
+              "RelativeDocumentMoniker": "HealthHelper\\Views\\TabletCardView.xaml",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletCardView.xaml",
+              "RelativeToolTip": "HealthHelper\\Views\\TabletCardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T16:44:54.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabletView.xaml",
+              "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletView.xaml",
+              "RelativeDocumentMoniker": "HealthHelper\\Views\\TabletView.xaml",
+              "ToolTip": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\Views\\TabletView.xaml",
+              "RelativeToolTip": "HealthHelper\\Views\\TabletView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T16:44:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "FamilyMemberCardViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\FamilyMemberCardViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\FamilyMemberCardViewModel.cs",
@@ -188,12 +245,11 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\FamilyMemberCardViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:20:19.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:20:19.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "FamilyMemberViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\FamilyMemberViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\FamilyMemberViewModel.cs",
@@ -201,12 +257,11 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\FamilyMemberViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:19:26.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:19:26.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\MainViewModel.cs",
@@ -214,12 +269,11 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\MainViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:14:51.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:14:51.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "TabletCardViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\TabletCardViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\TabletCardViewModel.cs",
@@ -227,12 +281,11 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\TabletCardViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:13:49.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:13:49.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TabletViewModel.cs",
               "DocumentMoniker": "F:\\NET\\HomeWork10\\HealthHelper\\HealthHelper\\ViewModels\\TabletViewModel.cs",
               "RelativeDocumentMoniker": "HealthHelper\\ViewModels\\TabletViewModel.cs",
@@ -240,8 +293,7 @@
               "RelativeToolTip": "HealthHelper\\ViewModels\\TabletViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T16:10:19.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:10:19.121Z"
             }
           ]
         }
